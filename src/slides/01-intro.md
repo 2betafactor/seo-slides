@@ -1,6 +1,7 @@
 # How to create SEO optimized content
 
 Lunch & Learn
+
 ![SEO](https://media.giphy.com/media/65VFKnvUZM6MtV1ote/giphy.gif)
 
 ---
