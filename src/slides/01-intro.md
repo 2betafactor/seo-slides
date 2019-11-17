@@ -120,7 +120,7 @@ Before we get to content structure lets cover:
 
 LSI (latent and not latex semantic indexing)
 
-source: [BacklinkO](https://backlinko.com/hub/seo/lsi_
+source: [BacklinkO](https://backlinko.com/hub/seo/lsi)
 
 ---
 
@@ -244,6 +244,8 @@ Tkn = total words in the analysed text
 But, but what is the right keyword density?
 
 # 3% give or take
+
+![three per cent](https://media.giphy.com/media/YlkCKp0EttSa7jxg6y/giphy.gif)
 
 ---
 
@@ -413,6 +415,47 @@ __Clickthrough rate__
 __Bounce rate__
 
 __Dwell time__
+
+---
+
+# PeopleGoal Domain overview
+
+![PeopleGoal](./peoplegoal1.png)
+
+*Note: Traffic volume represents US only*
+
+---
+
+PeopleGoal keyword example
+
+---
+
+Keyword: letter of appreciation to employees
+
+Monthly search US: 880
+
+Difficulty: 7
+
+---
+
+How did we do?
+
+
+---
+
+Current PeopleGoal Ranking: 1st page position 9
+
+Url: [5 Sample Letters of Appreciation For Employees](https://www.peoplegoal.com/blog/5-sample-letters-of-appreciation-for-employees)
+
+Published on September 19, 2019
+
+![The Rock](https://media.giphy.com/media/9S5h5vYQhvpEECqVOm/giphy.gif)
+
+---
+
+# PeopleGoal blog bounce rates
+
+![bounce rate](./bounce-rate.png)
 
 ---
 
