@@ -219,7 +219,7 @@ Invitation for feedback
 ---
 That's all good and nice but from a technical perspective
 
-how do I optimize a blogpost good blogpost?
+how do I optimize a blogpost?
 
 ---
 
