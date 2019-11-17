@@ -2,7 +2,7 @@
 
 Lunch & Learn
 
-![SEO](https://media.giphy.com/media/YrYe9uBn5SLlGMUt7T/giphy.gif)
+
 
 ---
 
@@ -44,7 +44,7 @@ HTTPs and SSL  (light factors)
 ---
 
 ### How deep is your crawl Brad?
-![Homer](https://media.giphy.com/media/fJKG1UTK7k64w/giphy.gif)
+![SEO](https://media.giphy.com/media/YrYe9uBn5SLlGMUt7T/giphy.gif)
 
 ---
 ### Mobile Page Speed (key ranking factor)
