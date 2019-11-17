@@ -317,6 +317,12 @@ will do it for you.
 
 ---
 
+# Always, always run your
+
+# content through an SEO checker!
+
+---
+
 Sharing and advertising also important.
 
 LinkedIn and Twitter best for HR SaaS!
@@ -348,11 +354,7 @@ Who is the number 1 HR influencer?
 
 
 
----
 
-# Always, always run your
-
-# content through an SEO checker!
 
 ---
 
