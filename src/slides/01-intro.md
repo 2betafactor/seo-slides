@@ -1,6 +1,6 @@
-# Search Engine Optimization
+# How to create SEO optimized content
 
-How to create SEO optimized content
+Lunch & Learn
 
 
 ---
