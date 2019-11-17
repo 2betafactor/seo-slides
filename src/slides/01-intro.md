@@ -420,6 +420,24 @@ __Dwell time__
 
 ---
 
+# Off-page SEO
+
+---
+
+"Off-page SEO" (also called "off-site SEO") refers to actions taken outside of
+
+ your own website to impact your rankings within
+
+ search engine results pages (SERPs).  
+
+
+---
+
+![Off page](./off-page.png)
+
+
+
+---
 # PeopleGoal Domain overview
 
 ![PeopleGoal](./peoplegoal1.png)
@@ -458,6 +476,95 @@ Published on September 19, 2019
 # PeopleGoal blog bounce rates
 
 ![bounce rate](./bounce-rate.png)
+
+---
+
+#  Peoplegoal blog is on Contentful
+
+---
+
+What is Contentful?
+
+---
+
+Contentful is content infrastructure. Their platform lets you create,
+
+manage and distribute content to any platform. Unlike a CMS,
+
+we give you total freedom to create your own content model
+
+so you can decide which content you want to manage.
+
+
+---
+
+Why Contentful, James?
+
+---
+
+# Fast
+
+![Fast](https://media.giphy.com/media/iJDLBX5GY8niCpZYkR/giphy.gif)
+
+---
+
+# Highly configurable
+
+---
+
+# API centric
+
+
+Imagine that you’re about to build something with LEGO.
+
+Those Danish plastic building blocks are a fun way to materialize your
+
+ideas in no time. Writing applications that interact with Contentful
+
+is a bit like building something using LEGO.
+
+
+
+---
+
+#  Clear separation between content and visual presentation
+
+---
+
+# Ability to deploy static websites
+
+
+---
+
+From the ground up has been designed to be fast, scalable,
+
+secure, and offer high uptime,
+
+so that you don’t have to worry about maintenance ever again.
+
+---
+
+Offers a powerful editor and lots of flexibility in creating templates
+
+for your documents that your editors can reuse and combine,
+
+so that no developers resources are required in everyday
+
+writing and updating tasks.
+
+---
+
+Separates content from presentation, so you can reuse your content
+
+repository for any device platform your heart desires.
+
+That way, you can COPE ("create once, publish everywhere").
+
+---
+
+Offers webhooks that you can use to rebuild your
+
+static site in a fully automated fashion every time your content is modified.
 
 ---
 
