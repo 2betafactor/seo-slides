@@ -2,7 +2,7 @@
 
 Lunch & Learn
 
-![SEO](https://media.giphy.com/media/65VFKnvUZM6MtV1ote/giphy.gif)
+![SEO](https://media.giphy.com/media/YrYe9uBn5SLlGMUt7T/giphy.gif)
 
 ---
 
