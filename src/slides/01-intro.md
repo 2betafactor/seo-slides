@@ -298,6 +298,23 @@ Presentation slides as images
 
 ---
 
+Great information Nik, but how do I check everything while I am writing content?
+
+
+---
+
+Don't sweat it Jo:
+
+[Yoast](https://yoast.com/research/real-time-content-analysis/)
+
+and
+
+[SEOReview tools](https://www.seoreviewtools.com/content-analysis/)
+
+will do it for you.
+
+---
+
 Sharing and advertising also important.
 
 LinkedIn and Twitter best for HR SaaS!
@@ -327,22 +344,7 @@ Who is the number 1 HR influencer?
 
 ![Bersin](https://sessionplanner.shrm.org/sites/default/files/Josh-Bersin.jpg)
 
----
 
-Great information Nik, but how do I check everything while I am writing content?
-
-
----
-
-Don't sweat it Jo:
-
-[Yoast](https://yoast.com/research/real-time-content-analysis/)
-
-and
-
-[SEOReview tools](https://www.seoreviewtools.com/content-analysis/)
-
-will do it for you.
 
 ---
 
