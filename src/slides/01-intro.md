@@ -10,10 +10,6 @@ Lunch & Learn
 ## Lets start with the basics, what is SEO?
 SEO stands for Search Engine Optimization, which is the practice of increasing the quantity and quality of traffic to your website through organic search engine results.
 
-SEO refers to the improvement of unpaid results (known as "natural" or "organic" results) and excludes direct traffic/visitors and the purchase of paid placement.
-
----
-
 ## What goes into SEO?
 To understand the true meaning of SEO, let's break that definition down and look at the parts:
 
