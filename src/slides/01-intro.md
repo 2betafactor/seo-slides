@@ -182,7 +182,7 @@ as the "protocol", such as HTTP, HTTPS, FTP, etc.
 
 ---
 
-![PeopleGoal](./peoplegoal3.png)
+![PeopleGoal](./peopleogoal3.PNG)
 
 ---
 
