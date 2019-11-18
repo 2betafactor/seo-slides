@@ -2,6 +2,8 @@
 
 Lunch & Learn
 
+![PG](https://pbs.twimg.com/profile_images/1137280823659573248/vh5lmb2j.png)
+
 
 
 ---
