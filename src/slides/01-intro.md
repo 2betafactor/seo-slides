@@ -278,7 +278,7 @@ These should be build as a pyramid.
 
 ![Link](./link-pyramid.png)
 
-10 blogposts with 10 internal linked to a blogpost
+For example, 10 blogposts with 10 internal links link to a blogpost with the main keyword.
 
 
 
