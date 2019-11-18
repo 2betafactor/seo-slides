@@ -2,7 +2,7 @@
 
 Lunch & Learn
 
-![PG](https://pbs.twimg.com/profile_images/1137280823659573248/vh5lmb2j.png)
+![PG](https://cdn.dribbble.com/users/886289/screenshots/6873551/pg2.jpg)
 
 
 
