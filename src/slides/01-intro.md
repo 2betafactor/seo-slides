@@ -2,7 +2,6 @@
 
 Lunch & Learn
 
-![PG](https://cdn.dribbble.com/users/886289/screenshots/6873551/pg2.jpg)
 
 
 
