@@ -182,7 +182,7 @@ as the "protocol", such as HTTP, HTTPS, FTP, etc.
 
 ---
 
-![PeopleGoal](./meta-title1.png)
+![PeopleGoal](https://files.slack.com/files-pri/T02SV7AQC-FQ9ML8QHG/meta-title1.png)
 
 ---
 
