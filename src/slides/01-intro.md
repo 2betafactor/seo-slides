@@ -253,7 +253,7 @@ Do not over do it with keywords avoid keyword stuffing, and use the keyword in t
 
 ---
 
-Include the keyword in the tittle
+Include the keyword in the title
 
 ---
 Include the keyword in the meta description
@@ -497,7 +497,7 @@ Contentful is content infrastructure. Their platform lets you create,
 
 manage and distribute content to any platform. Unlike a CMS,
 
-we give you total freedom to create your own content model
+they give you total freedom to create your own content model
 
 so you can decide which content you want to manage.
 
