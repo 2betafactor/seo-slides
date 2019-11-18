@@ -10,6 +10,10 @@ Lunch & Learn
 ## Lets start with the basics, what is SEO?
 SEO stands for Search Engine Optimization, which is the practice of increasing the quantity and quality of traffic to your website through organic search engine results.
 
+SEO refers to the improvement of unpaid results (known as "natural" or "organic" results) and excludes direct traffic/visitors and the purchase of paid placement.
+
+---
+
 ## What goes into SEO?
 To understand the true meaning of SEO, let's break that definition down and look at the parts:
 
@@ -148,7 +152,7 @@ to uncover LSI terms to use in your content.
 
 ---
 
-__Meta Title__
+__Meta Title (60 characters or less)__
 
 A meta title is an important part of website optimization,
 
@@ -158,7 +162,7 @@ It acts as a name tag for the web page.
 
 ---
 
-__Meta Description__
+__Meta Description (155 characters or less)__
 
 The meta description is a snippet of up to about 155 characters – a tag in HTML –
 
@@ -248,6 +252,8 @@ But, but what is the right keyword density?
 # 3% give or take
 
 ![three per cent](https://media.giphy.com/media/YlkCKp0EttSa7jxg6y/giphy.gif)
+
+Do not over do it with keywords avoid keyword stuffing, and use the keyword in the opening and closing paragraph.
 
 ---
 
