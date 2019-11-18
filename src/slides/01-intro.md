@@ -298,7 +298,9 @@ Images
 
 Presentation slides as images
 
-# Visual aids add great value use a lot!
+# Visual aids add great value!
+
+# Use minimum 5 per blogpost!
 
 ---
 
